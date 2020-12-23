@@ -26,7 +26,6 @@ def hgt(str):
 
 
 
-
 print(passports[0])
 
 err = 0
