@@ -51,8 +51,6 @@ for p in passports:
 				err+=1
 				break
 
-		
-
 
 v = len(passports) - err
 print(v)
